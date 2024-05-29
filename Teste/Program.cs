@@ -1,6 +1,6 @@
 namespace Teste
 {
-    public class Program
+    public class Programa
     {
         public static void Main(string[] args)
         {

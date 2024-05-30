@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{A5D5E53D-CCFD-4D1C-B28C-8A180E4BB1BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriandoApi", "Teste\CriandoApi.csproj", "{A5D5E53D-CCFD-4D1C-B28C-8A180E4BB1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema De Tarefas", "Sistema De Tarefas\Sistema De Tarefas.csproj", "{92542BCF-3E60-4520-80E8-FC4DCBA61615}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A5D5E53D-CCFD-4D1C-B28C-8A180E4BB1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D5E53D-CCFD-4D1C-B28C-8A180E4BB1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5D5E53D-CCFD-4D1C-B28C-8A180E4BB1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92542BCF-3E60-4520-80E8-FC4DCBA61615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92542BCF-3E60-4520-80E8-FC4DCBA61615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92542BCF-3E60-4520-80E8-FC4DCBA61615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92542BCF-3E60-4520-80E8-FC4DCBA61615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

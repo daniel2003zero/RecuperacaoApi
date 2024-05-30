@@ -1,6 +1,6 @@
-namespace Teste
+namespace Sistema_De_Tarefas
 {
-    public class Programa
+    public class Program
     {
         public static void Main(string[] args)
         {

@@ -1,4 +1,5 @@
-﻿namespace Sistema_De_Tarefas.Models
+﻿using Microsoft.EntityFrameworkCore;
+namespace Sistema_De_Tarefas.Models
 {
     public class UsuarioModel
     {

@@ -11,6 +11,8 @@ namespace Sistema_De_Tarefas.Models
 
         public string? Descricao { get; set; }
 
+        public string? Email { get; set; }
+
         public StatusTarefa Status { get; set; }
     }
 }

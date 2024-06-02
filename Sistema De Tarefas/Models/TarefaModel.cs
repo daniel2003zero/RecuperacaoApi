@@ -14,5 +14,9 @@ namespace Sistema_De_Tarefas.Models
         public string? Email { get; set; }
 
         public StatusTarefa Status { get; set; }
+
+        public int? UsuarioId { get; set; }
+
+        public virtual UsuarioModel? Usuario { get; set; }
     }
 }

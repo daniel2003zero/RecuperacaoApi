@@ -13,5 +13,6 @@ namespace Sistema_De_Tarefas.Controllers
         {
             return Ok();
         }
+        [HttpGet]
     }
 }
